@@ -10,7 +10,7 @@ This project allows developers and professionals to generate clean, modern digit
 
 - **Responsive Design** — Cards adapt seamlessly from mobile to desktop
 - **Customizable Themes** — Easily modify colors, fonts, and layouts via CSS variables
-- **Print-Ready Export** — Optimized styles for physical printing
+- **Print-Ready Export** — Optimized styles for physical printing......
 - **QR Code Integration** — Generate scannable codes linking to your digital card
 - **Lightweight** — Zero JavaScript dependencies; pure HTML/CSS implementation
 - **Accessibility First** — Semantic markup and ARIA-compliant structure
